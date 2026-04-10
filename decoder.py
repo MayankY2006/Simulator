@@ -1,5 +1,3 @@
-# decoder.py
-
 from core import *
 
 def get_opcode(inst):
